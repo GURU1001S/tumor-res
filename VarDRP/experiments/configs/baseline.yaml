@@ -1,0 +1,2 @@
+# Placeholder configuration for the baseline GCN experiment.
+model: baseline_gcn

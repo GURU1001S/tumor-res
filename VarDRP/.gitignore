@@ -1,0 +1,9 @@
+data/raw/
+experiments/results/checkpoints/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store

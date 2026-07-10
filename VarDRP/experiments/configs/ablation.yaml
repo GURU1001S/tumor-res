@@ -1,0 +1,2 @@
+# Placeholder configuration for ablation experiments that remove one component at a time.
+model: ablation
